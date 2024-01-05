@@ -1,0 +1,104 @@
+body {
+  background-color: #353535;
+  padding: 20px;
+  color: #ffffff;
+  font-family: Arial, verdana, sans-serif;
+}
+
+h1 {
+  background-color: #d9d9d9;
+  text-align: center;
+  color: #000000;
+  padding: inherit;
+}
+p {
+  padding: 5px;
+  margin: 0;
+}
+
+p.fourteen {
+  background-color: #03045e;
+  margin-left: 280px;
+  margin-right: 280px;
+}
+
+p.thirteen {
+  background-color: #023e8a;
+  margin-left: 260px;
+  margin-right: 260px;
+}
+
+p.tweleve {
+  background-color: #0077b6;
+  margin-left: 240px;
+  margin-right: 240px;
+}
+
+p.eleven {
+  background-color: #0096c7;
+  margin-left: 220px;
+  margin-right: 220px;
+}
+
+p.ten {
+    background-color: #00b4d8;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+p.nine {
+    background-color: #48cae4;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+
+p.eight {
+    background-color: #90e0ef;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+p.seven {
+    background-color: #000000;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+p.six {
+    background-color: #ff8fa3;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+p.five {
+    background-color: #ff758f;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+p.four {
+    background-color: #ff4d6d;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+p.three {
+    background-color: #c9184a;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+p.two {
+    background-color: #a4133c;  margin-left: 40px;
+    margin-right: 40px;
+}
+
+p.one {
+    background-color: #800f2f;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+p.zero {
+    background-color: #590d22;
+}
